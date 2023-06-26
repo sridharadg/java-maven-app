@@ -2,7 +2,7 @@
 
 
 
-The repository contains a simple Java application which outputs the string
+The repository contains a simple Java application which outputs the stringsss
 "Hello world!"
 
 
