@@ -6,7 +6,7 @@ The repository contains a simple Java application which outputs the stringsss
 "Hello world!"
 
 
-to build the
+to build the project
 
 mvn clean install
 
